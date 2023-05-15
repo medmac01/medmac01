@@ -1,16 +1,16 @@
 <div align="center">
-<img width="" height = "" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
+<img width="" height = "" src="https://media.giphy.com/media/SKh5UMtIh8cJOEtndp/giphy-downsized-large.gif" alt="cover" />
 </div>
 
-<h1 align="center">Hey there, I'm Ilyas<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm Mohammed<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">A computer science student, cyber security and web developer passionate.</h3>
+<h3 align="center">An AI Student, Graphic Designer and healthcare enthusiast</h3>
 
-- 🎓 4th year @ **euromed university fes**
+- 🎓 4th year AI student @ **Euromed University of Fez**
 
-- 🔭 I’m currently working on **some cool projects**
+- 🔭 I’m currently working on **ChatPDF: Chatbot for semantic search using LLMs**
 
-- 🌱 I’m currently learning **cyber security and more about web dev**
+- 🌱 I’m currently learning ****
 
 - 💬 Ask me about **anything I know. I would be glad to share what I know with you**
 
