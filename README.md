@@ -8,7 +8,7 @@
 
 - 🎓 4th year AI student @ **Euromed University of Fez**
 
-- 🔭 I’m currently working on **ChatPDF: Chatbot for semantic search using LLMs**
+- 🔭 I’m currently working on **[ChatPDF: Chatbot for semantic search using LLMs](https://github.com/medmac01/ChatPDF)**
 
 - 🌱 I’m currently learning **Stable Diffusion**
 
@@ -32,8 +32,11 @@
 <a href = 'https://www.linkedin.com/in/mohammed-machrouh/'> <img height="30" width="40" align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  
 <a href = 'https://www.instagram.com/medmac01'> <img height="30" width="40" align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
 <a href = 'https://github.com/medmac01'> <img height="30" width="40" align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href = 'https://www.kaggle.com/medmac01'> <img height="30" width="40" align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hackerrank.svg"/></a>
+<a href = 'https://www.kaggle.com/medmac01'> <img height="30" width="40" align= 'center' src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"/></a>
 </p>
 
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
-  
+
+## **Github Stats**<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=medmac01&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=medmac01&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
