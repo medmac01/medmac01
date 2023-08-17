@@ -6,7 +6,7 @@
 
 <h3 align="center">An AI Student, Graphic Designer and healthcare enthusiast</h3>
 
-- 🎓 4th year AI student @ **Euromed University of Fez**
+- 🎓 5th year AI student @ **Euromed University of Fez**
 
 - 🔭 I’m currently working on **[ChatPDF: Chatbot for semantic search using LLMs](https://github.com/medmac01/ChatPDF)**
 
