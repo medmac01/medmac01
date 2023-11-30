@@ -8,9 +8,9 @@
 
 - 🎓 5th year AI student @ **Euromed University of Fez**
 
-- 🔭 I’m currently working on **[ChatPDF: Chatbot for semantic search using LLMs](https://github.com/medmac01/ChatPDF)**
+- 🔭 I’m currently working on **[Mixed Arabic Dataset Project - DarijaBridge]([https://github.com/medmac01/ChatPDF](https://huggingface.co/spaces/M-A-D/DarijaBridge-Space))**
 
-- 🌱 I’m currently learning **Stable Diffusion**
+- 🌱 I’m currently learning **Stable Diffusion & Vision Transformers**
 
 - 💬 Ask me about **anything I know. I would be glad to share what I know with you**
 
