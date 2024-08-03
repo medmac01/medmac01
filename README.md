@@ -38,5 +38,8 @@
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
 
 ## **Github Stats**<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=medmac01&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=medmac01&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![medmac01's github stats](https://github-readme-stats.vercel.app/api?username=medmac01&count_private=true&show_icons=true&theme=gruvbox&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=medmac01&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medmac01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
