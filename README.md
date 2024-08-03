@@ -6,7 +6,7 @@
 
 <h3 align="center">An AI Student, Graphic Designer and healthcare enthusiast</h3>
 
-- 🎓 5th year AI student @ **Euromed University of Fez**
+- 🎓 AI Engineer from  **Euromed University of Fez** | NLP researcher @ **UM6P-CC**
 
 - 🔭 I’m currently working on **[Mixed Arabic Dataset Project - DarijaBridge]([https://github.com/medmac01/ChatPDF](https://huggingface.co/spaces/M-A-D/DarijaBridge-Space))**
 
